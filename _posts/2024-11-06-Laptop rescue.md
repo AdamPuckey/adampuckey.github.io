@@ -15,7 +15,7 @@ Dismantling it presented me with some challenges, and also taught me a little bi
 
 My back was hurting quite a bit by the time I moved the laptop to the floor and sat cross-legged.
 
-I then stayed up til 2am troubleshooting WEIRD stuff. Once the laptop was cleaned and reassembled, I tried installing Linux Mint Xfce on it. Linux Mint is a very lightweight operating system that is useful for breathing life into older machines. More info can be found <a href="https://linuxmint.com/">here<a>.
+I then stayed up til 2am troubleshooting WEIRD stuff. Once the laptop was cleaned and reassembled, I tried installing Linux Mint Xfce on it. Linux Mint is a very lightweight operating system that is useful for breathing life into older machines.
 
 The laptop booted into the installation USB fine, and even ran the install. I decided to wipe Windows 7, and all my documents, rather than install alongside it. Once the installation was complete and I tried to boot the laptop, I got the following error:
 
