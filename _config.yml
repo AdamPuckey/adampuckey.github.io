@@ -28,21 +28,23 @@ url: "https://adampuckey.github.io"
 github:
   username: AdamPuckey # change to your GitHub username
 
-#twitter:
- # username: twitter_username # change to your Twitter username
+twitter:
+ username: AdamPuckey # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Adam Puckey
+  email: adampuckey@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your Twitter homepage
+    - https://www.linkedin.com/in/AdamPuckey
+    - https://twitter.com/AdamPuckey # change to your Twitter homepage
     - https://github.com/AdamPuckey # change to your GitHub homepage
+    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/AdamPuckey
+    
 
 # Site Verification Settings
 webmaster_verifications:
@@ -102,7 +104,7 @@ avatar: https://media.licdn.com/dms/image/v2/D4E03AQF6dx1U5JOhmg/profile-display
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image:  https://media.licdn.com/dms/image/v2/D4E03AQF6dx1U5JOhmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730846793514?e=1736380800&v=beta&t=VvxeF6x_2pKElJJJFeydDi7VbIJa_c2gp2YwEl1RmGQ
 
 # boolean type, the global switch for TOC in posts.
 toc: true
