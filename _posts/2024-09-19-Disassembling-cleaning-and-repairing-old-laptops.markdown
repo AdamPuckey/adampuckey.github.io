@@ -46,7 +46,3 @@ Regarding the Toshiba, this is a perfect opportunity to look into single-boot op
 I gained a renewed appreciation for how the gap is bridged between hardware and software, and the importance of not randomly putting down tiny bolts in places without thinking!
 
 Now for some lunch, and to plan my next area of study!
-
-
-
-
