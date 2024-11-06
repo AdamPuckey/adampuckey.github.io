@@ -16,4 +16,4 @@ a final score of 720. I was convinced I had failed when some questions popped up
 <br>
 <br>
 This week sees me doing the initial groundwork for Core 2, which is primarily watching videos, cross referencing the exam objectives, and googling anything that needs a bit of a deeper look. Overall I am pretty happy, and looking forward to the ups and downs
-of the next few weeks!
+of the next few weeks! 
