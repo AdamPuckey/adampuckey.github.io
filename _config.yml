@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: "Buster's Laptop Laboratory!"
+title: Community | Laptops | Cat
+description: Buster is dedicated to helping give life to old laptops
 tags:
   - blog
   - template
@@ -15,11 +14,9 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
+  - title: Contact Buster
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: busterslaptoplaboratory@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
