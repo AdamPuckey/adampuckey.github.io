@@ -1,15 +1,14 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Welcome to Buster's Laptop Laboratory!
+subtitle: 'A place for everyday laptops to get a free, community driven overhaul.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Do you have a laptop that you think needs some TLC? Buster wants to help you! Our free, community driven volunteer service will give your laptop a once over.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://collection.cloudinary.com/dbr44ozbl/dc4769bfe79e1a06d4b414b86d7b8bb9
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://collection.cloudinary.com/dbr44ozbl/dc4769bfe79e1a06d4b414b86d7b8bb9
 category: blog
 tags:
   - welcome
