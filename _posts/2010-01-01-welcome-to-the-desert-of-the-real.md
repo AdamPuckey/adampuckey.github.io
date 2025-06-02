@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 23:48:05
+date: 
 layout: post
 title: Welcome to Buster's Laptop Laboratory!
 subtitle: 'A place for everyday laptops to get a free, community driven overhaul.'
