@@ -1,14 +1,14 @@
 ---
-date: 
+date: 2025-06-01 09:00:00
 layout: post
 title: Welcome to Buster's Laptop Laboratory!
 subtitle: 'A place for everyday laptops to get a free, community driven overhaul.'
 description: >-
   Do you have a laptop that you think needs some TLC? Buster wants to help you! Our free, community driven volunteer service will give your laptop a once over.
 image: >-
-  https://collection.cloudinary.com/dbr44ozbl/dc4769bfe79e1a06d4b414b86d7b8bb9
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-  https://collection.cloudinary.com/dbr44ozbl/dc4769bfe79e1a06d4b414b86d7b8bb9
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - welcome
