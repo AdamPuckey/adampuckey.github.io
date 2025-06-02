@@ -6,9 +6,9 @@ subtitle: 'A place for everyday laptops to get a free, community driven overhaul
 description: >-
   Do you have a laptop that you think needs some TLC? Buster wants to help you! Our free, community driven volunteer service will give your laptop a once over.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://i.ibb.co/whs5GVTK/busterinshelter.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://i.ibb.co/whs5GVTK/busterinshelter.jpg
 category: blog
 tags:
   - welcome
