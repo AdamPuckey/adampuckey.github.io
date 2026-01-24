@@ -1,8 +1,8 @@
 ---
 date: 2026-01-23 12:26:40
 layout: post
-title: Come say hi!
-subtitle: 'Subtitle'
+title: Come say hi on my socials!
+subtitle: 'Insta: @puck.rocks'
 description: >-
   Links and shit for Puck Rocks' comedy and writing.
 image: >-
