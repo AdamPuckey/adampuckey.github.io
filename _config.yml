@@ -29,13 +29,13 @@ formspree_form_id: formspree_form_id
 #github_username: github_username
 #facebook_username: facebook_username
 #twitter_username: twitter_username
-instagram_username: @puck-ing_hell
+#instagram_username: @puck-ing_hell
 #linkedin_username: linkedin_username
-medium_username: @_puck
+#medium_username: 
 
 
 # Posts Settings
-show_time_bar: false
+show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
