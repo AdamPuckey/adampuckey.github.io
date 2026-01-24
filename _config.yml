@@ -1,7 +1,7 @@
 # Site Settings
-name: "Buster's Laptop Laboratory!"
-title: Community | Laptops | Cat
-description: Buster is dedicated to helping give life to old laptops
+name: "Puck Rocks!"
+title: Comedy | Socials | Blogs
+description: The Officially Unofficial Website for the comedy of Puck Rocks
 tags:
   - blog
   - template
@@ -14,9 +14,9 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact Buster
+  - title: Contact Puck
     url: /contact
-email: busterslaptoplaboratory@gmail.com
+email: adampuckey@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -26,16 +26,16 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+#github_username: github_username
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+instagram_username: @puck-ing_hell
+#linkedin_username: linkedin_username
+medium_username: @_puck
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
