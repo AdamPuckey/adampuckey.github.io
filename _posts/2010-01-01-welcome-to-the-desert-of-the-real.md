@@ -2,7 +2,7 @@
 date: 
 layout: post
 title: Come say hi!
-subtitle: ''
+subtitle: 'Insta: @puck.rocks'
 description: >-
   Links and shit for Puck Rocks' comedy and writing.
 image: >-
