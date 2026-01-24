@@ -2,7 +2,7 @@
 date: 2026-01-23 12:26:40
 layout: post
 title: Come say hello!
-subtitle: 'Insta: <a href="www.instagram.com/puck.rocks/">@puck.rocks</a>'
+subtitle: 'Insta: <a href="https: www.instagram.com/puck.rocks">@puck.rocks</a>'
 description: >-
   Links and shit for Puck Rocks' comedy and writing.
 image: >-
