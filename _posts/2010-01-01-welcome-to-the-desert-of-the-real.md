@@ -1,8 +1,8 @@
 ---
-date: 2025-06-01 09:00:00
+date: 
 layout: post
-title: Puck Rocks!
-subtitle: 'The Officially Unofficial Website for the Comedy of Puck Rocks'
+title: Come say hi!
+subtitle: 'Insta: @puck_ing_hell'
 description: >-
   Links and shit for Puck Rocks' comedy and writing.
 image: >-
