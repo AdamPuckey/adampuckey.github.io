@@ -1,10 +1,10 @@
 ---
 date: 2025-06-01 09:00:00
 layout: post
-title: Welcome to Buster's Laptop Laboratory!
-subtitle: 'A place for everyday laptops to get a free, community driven overhaul.'
+title: Puck Rocks!
+subtitle: 'The Officially Unofficial Website for the Comedy of Puck Rocks'
 description: >-
-  Do you have a laptop that you think needs some TLC? Buster wants to help you! Our free, community driven volunteer service will give your laptop a once over.
+  Links and shit for Puck Rocks' comedy and writing.
 image: >-
   https://i.ibb.co/whs5GVTK/busterinshelter.jpg
 optimized_image: >-
@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: Puck Rocks
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
